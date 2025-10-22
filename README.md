@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/shayanCR07/shayanCR07/blob/b86a594426ebfa7146ba6ab200af68767ba6f7a2/github-header-image.png)
-<h3 align="center">A would be full stack web developer from Kolkata, India.</h3>
+<h3 align="center">A full stack web developer from Kolkata, India.</h3>
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Nextjs**<br><br>- 👨‍💻 All of my projects are available at [https://shayandas.vercel.app/](https://shayandas.vercel.app/)<br><br>- 💬 Ask me about **Java, Javascript, Reactjs**<br><br>- 📫 How to reach me **shayandas267@gmail.com**<br><br>- ⚡ Fun fact **I think i am a Chill guy.**<br>
