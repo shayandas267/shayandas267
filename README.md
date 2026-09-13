@@ -40,12 +40,12 @@ I'm open to discussing web development, collaboration, and interesting product i
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shayandas267@gmail.com)
 
 ## 🏆 GitHub Achievements:
-![](https://github-profile-trophy.vercel.app/?username=shayanCR07&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shayandas267&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shayanCR07&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shayanCR07&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanCR07&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shayandas267&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shayandas267&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayandas267&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📈 Contribution Activity:
 ![Shayan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shayandas267&theme=dracula&hide_border=true)
